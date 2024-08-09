@@ -6,8 +6,8 @@
 
   (title_block
     (title "pico-app-base")
-    (date "2024-06-20")
-    (rev "0.91")
+    (date "2024-07-02")
+    (rev "0.95")
     (company "Bernhard Bablok")
     (comment 1 "https://github.com/bablokb/pcb-pico-app-base")
   )
